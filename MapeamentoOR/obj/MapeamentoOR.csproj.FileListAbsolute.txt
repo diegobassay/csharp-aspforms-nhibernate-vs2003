@@ -1,0 +1,6 @@
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\bin\Debug\MapeamentoOR.dll
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\bin\Debug\MapeamentoOR.pdb
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\obj\Debug\MapeamentoOR.Atividade.hbm.xml
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\obj\Debug\MapeamentoOR.dll
+C:\dev\vs2005\ProjetoWeb\MapeamentoOR\obj\Debug\MapeamentoOR.pdb

@@ -1,0 +1,6 @@
+bin\Debug\MapeamentoOR.dll
+bin\Debug\MapeamentoOR.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MapeamentoOR.Atividade.hbm.xml
+obj\Debug\MapeamentoOR.dll
+obj\Debug\MapeamentoOR.pdb

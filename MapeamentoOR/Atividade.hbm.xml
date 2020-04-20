@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="MapeamentoOR"
+                   namespace="MapeamentoOR">
+
+  <class name="Atividade" table="atividade">
+    <id name="Id" column="id">
+      <generator class="identity" />
+    </id>
+
+    <property name="Nome" column="Nome" />
+    <property name="Descricao" column="Descricao" />
+
+  </class>
+
+</hibernate-mapping>
+
+<!-- 
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.0">
+  <class name="MapeamentoOR.Atividade,MapeamentoOR" table="dbo.atividade">
+
+    <id name="Id" column="Id" type="Int32" unsaved-value="0">
+      <generator class="assigned"/>
+    </id>
+
+    <property column="Nome" 
+              type="String" 
+              name="Nome" 
+              length="50"/>
+
+    <property column="Descricao" 
+              type="String" 
+              name="Descricao" 
+              length="200" />
+
+  </class>
+</hibernate-mapping>
+-->
